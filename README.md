@@ -1,5 +1,5 @@
 # Olá devs, eu sou Dan !
-*Tenho 18 anos, moro em Jandira-SP, sou estudante técnico Senai no primeiro termo em Desenvolvimento de Sistemas. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
+*Tenho 18 anos, moro em Jandira-SP, sou estudante técnico Senai no segundo termo em Desenvolvimento de Sistemas. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
 
        
 <div>
