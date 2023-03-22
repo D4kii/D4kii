@@ -38,7 +38,7 @@
 
 📚  *Estudo java, linguagens de marcação e atualmente estou me aprofundando em JavaScript.*
 
-☕🎮 *Adoro Músicas antigas, jogos indie e café. Adoro fazer trocadilhos e piadas com referências. Acontece com uma certa regularidade. :)*
+☕🎮 *Adoro Músicas antigas, jogos indie e café. :)*
 
 
           
