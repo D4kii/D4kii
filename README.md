@@ -1,5 +1,5 @@
-# Olá devs, eu sou Dan !
-*Tenho 19 anos, moro em Jandira-SP, sou estudante técnico Senai no terceiro termo em Desenvolvimento de Sistemas. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
+# Olá!
+*Tenho 19 anos, sou estudante Senai no terceiro termo em Desenvolvimento de Sistemas. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
 
        
 <div>
@@ -36,9 +36,8 @@
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> </code>
  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="50" /> </code> <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> </code> <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> </code> <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> </code> <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> </code> 
 ---
-📚  *Estudo java, Javascript puro e Node, estrutura e modelagem de Banco de dados com mySQL.*
+📚  *Java, Javascript, Node, React, HTML e CSS, Kotlin e MySQL.*
 
-☕🎮 *Adoro rock, Músicas antigas, jogos indie e café. :)*
 
 
           
