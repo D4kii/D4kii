@@ -1,5 +1,5 @@
 # Olá!
-*Tenho 19 anos, sou estudante Senai no terceiro termo em Desenvolvimento de Sistemas. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
+*Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas pelo SENAI Jandira. fique à vontade para dar uma olhada nos repositórios do meu perfil, estou aberto a sugestões e críticas construtivas!*
 
        
 <div>
